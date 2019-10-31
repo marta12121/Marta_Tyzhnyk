@@ -1,0 +1,10 @@
+import math
+a = int(input("a = "))
+b = int(input("b = "))
+print("Calculate a + b = ", a+b)
+print("Calculate a - b = ", a-b)
+print("Calculate a * b = ", a*b)
+print("Calculate a / b = ", a/b)
+print("Calculate a ** b = ", a**b)
+print("Calculate sqrt(a) = ", math.sqrt(a))
+print("Calculate sqrt(b) = ", math.sqrt(b))
